@@ -321,3 +321,6 @@ with tab4:
     3. Share the encrypted text with your friend
     4. They set the same settings and decrypt in the Decrypt tab
     5. Use Step-by-Step tab
+
+
+                             """)
