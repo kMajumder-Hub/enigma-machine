@@ -46,7 +46,7 @@ streamlit run enigma_app.py
 
 ## 📚 About the Enigma Machine
 
-The Enigma machine was an encryption device used by Nazi Germany during World War II. Breaking the Enigma code was one of the greatest achievements of Allied cryptanalysis, with significant contributions from Alan Turing and the team at Bletchley Park.
+The Enigma machine was an encryption device used by Germany during World War II. Breaking the Enigma code was one of the greatest achievements of Allied cryptanalysis, with significant contributions from Alan Turing and the team at Bletchley Park.
 
 This simulator demonstrates the core principles:
 - **Rotors**: Mechanical wheels that scramble letters and rotate after each keypress
